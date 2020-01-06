@@ -3,9 +3,9 @@
 */
 
 String Tag = "dev"
-int a = 2323;
-int b =4342;
-double ab = 23234.2;
-double qw = 8439.32;
+int a = 1;
+int b =2;
+double ab = 1122.3;
+double qw = 3344.5;
 String name = "Tim"
 
